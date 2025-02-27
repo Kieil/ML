@@ -9,11 +9,11 @@
 
 <br>
 <div class="project">
-  <p>1. <a href="https://github.com/Kieil/ML/tree/main/Titanic_kaggle">Titanic using classifier</a></p>
+  <p>1. Titanic using classifier</a></p>
 </div>
 
 <div class="project">
-  <p>2. <a href="https://github.com/Kieil/ML/tree/main/Used_car_Kaggle">Used car price regression with web app for predicting</a></p>
+  <p>2. Used car price regression with web app for predicting</a></p>
 </div>
 
 <div class="project">
