@@ -1,2 +1,2 @@
-# Used-cars
-kaggle competition
+# This repository contains my machine learning code 
+Explanation what can u find here
